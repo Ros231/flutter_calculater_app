@@ -1,16 +1,6 @@
 # flutter_calculater_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+BMI & BMR Calculate app
+<img width="300" alt="Screenshot 2026-02-04 115149" src="https://github.com/user-attachments/assets/e5aca97b-8631-4077-ba63-6d226f64f871" />
+<img width="300"  alt="Screenshot 2026-02-04 115128" src="https://github.com/user-attachments/assets/745c3595-0c23-4d96-8745-cb8169b2cfb1" />
+<img width="300"  alt="Screenshot 2026-02-04 115238" src="https://github.com/user-attachments/assets/2c637a40-1460-435f-8c6d-7b97bcd6c383" />

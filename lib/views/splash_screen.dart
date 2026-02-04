@@ -39,8 +39,8 @@ void initState() {
           children: [
             Image.asset(
               "assets/icons/calculator.png",
-              width: MediaQuery.of(context).size.width * 0.50,
-              height: MediaQuery.of(context).size.width * 0.50,
+              width: MediaQuery.of(context).size.width * 0.25,
+              height: MediaQuery.of(context).size.width * 0.25,
               fit: BoxFit.cover,
             
             ),

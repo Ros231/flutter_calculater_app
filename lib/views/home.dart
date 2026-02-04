@@ -18,11 +18,9 @@ class _HomeState extends State<Home> {
 
  // ตัวแปรเก็บ widget หน้าจอที่จะมาแสดงที่ body ของ scaffold
 List<Widget> showBody = [
-
   Bmi(),
-  Bmr(),
   About(),
-
+  Bmr(),
 ];
 
   @override
@@ -64,6 +62,9 @@ List<Widget> showBody = [
 
         ],
       ),
+
+      body: showBody[selectstatus],
+      
     );
   }
 }
